@@ -22,17 +22,11 @@
 
 -------------------------------------
 
-## 二、打赏 - JUST FOR FUN
-
-> * 一杯咖啡钱, 打赏金额随意，感谢大家~ :)
-
-
-|   支付宝   |   微信    |
-|------------|-----------|
-|<img src="https://img-blog.csdnimg.cn/20200412132734488.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Jib3lmZWl5dQ==,size_16,color_FFFFFF,t_70" width="200"/>| <img src="https://img-blog.csdnimg.cn/20200911174255577.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Jib3lmZWl5dQ==,size_16,color_FFFFFF,t_70" width="200"/>  |
-
-
-## 三、阅读器说明
+## 二、阅读器说明
 
 1. epub 格式的电子书可以安装 [多看阅读](https://www.duokan.com/product) ,  通过 `wifi传书功能` 通过浏览器将电子书传入到阅读器中, 然后就可以进行阅读;
 2. mobi 格式的电子书需要使用 `kindle设备` 或者在电脑上安装 [kindle 阅读app](https://www.amazon.cn/kindle-dbs/fd/kcp/ref=sv_kinc_0)
+
+## 待解决问题
+1. 无法抓取文章中的图片
+2. 电子书文章排版一般
